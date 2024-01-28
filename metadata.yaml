@@ -1,0 +1,5 @@
+homepage: "https://tapper.ai"
+documentation: "https://docs.tapper.ai/gtm/web-event-dispatcher"
+versions:
+  - sha: 26093be373732a94d502ee04685a602a29c75542
+    changeNotes: Initial Release.
