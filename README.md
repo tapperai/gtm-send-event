@@ -1,12 +1,12 @@
 # Tapper - Event Dispatcher
 
 ## Overview
-The "Tapper - Event Dispatcher" is a Google Tag Manager template specifically designed for use with Tapper services. This tag is configured to request permission for retrieving only the specified Tapper cookie. It utilizes the data from this cookie to send event information to the designated Tapper endpoint.
+This tag template retrieves only the specific Tapper identifier from local storage and uses its data, along with the event name given by user input, to send event information to the Tapper endpoint.
 
 ## Key Features
-- Retrieves specified Tapper cookie.
-- Sends event information to Tapper endpoint using the cookie data.
+- Retrieves specified Tapper identifier from local storage. 
+- Sends event information to Tapper endpoint using the identifier data along with the event name given by user input. 
 
 ## Resources
 - [**Tapper Homepage**](https://tapper.ai)
-- [**Tapper Event Dispatcher Documentation**](https://docs.tapper.ai/gtm/web-event-dispatcher)
+- [**Tapper Event Dispatcher Documentation**](https://docs.tapper.ai/gtm/web-event-dispatcher) 
